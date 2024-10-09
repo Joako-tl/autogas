@@ -112,24 +112,24 @@
             </section>
             <section class="page-section bg-light" id="ventajasgnv">
             <div class="container">
-                <div class="text-center">
+                <div class="text-left titulo-conv">
                     <h2 class="section-heading text-uppercase ">Ventajas</h2>  
                 </div>
                 <br>
-                <div class="row text-center">
+                <div class="row text-left">
                     <div class="col-md-6 banner-text">  
-                        <p class="text-muted text-justify"> El GNV suele ser más económico que la gasolina o el diésel, lo que puede resultar en un ahorro significativo en el costo del combustible a largo plazo.</p>
+                        <p class="text-muted "> El GNV suele ser más económico que la gasolina o el diésel, lo que puede resultar en un ahorro significativo en el costo del combustible a largo plazo.</p>
                             
-                        <p class="text-muted text-justify">Los motores que funcionan con GNV suelen ser más silenciosos en comparación con los motores de gasolina o diésel, lo que puede contribuir a una conducción más placentera y menos ruidosa.</p>
+                        <p class="text-muted ">Los motores que funcionan con GNV suelen ser más silenciosos en comparación con los motores de gasolina o diésel, lo que puede contribuir a una conducción más placentera y menos ruidosa.</p>
                         
-                        <p class="text-muted text-justify">Los motores a GNV tienden a tener menos desgaste y menos acumulación de residuos en el sistema de encendido, lo que puede traducirse en menores costos de mantenimiento a largo plazo.</p>
+                        <p class="text-muted ">Los motores a GNV tienden a tener menos desgaste y menos acumulación de residuos en el sistema de encendido, lo que puede traducirse en menores costos de mantenimiento a largo plazo.</p>
 
-                        <p class="text-muted text-justify">Aunque el GNV es inflamable, es más seguro que la gasolina en términos de riesgo de incendio porque el gas se dispersa rápidamente en el aire si hay una fuga, mientras que los vapores de gasolina pueden ser más peligrosos.</p>
+                        <p class="text-muted ">Aunque el GNV es inflamable, es más seguro que la gasolina en términos de riesgo de incendio porque el gas se dispersa rápidamente en el aire si hay una fuga, mientras que los vapores de gasolina pueden ser más peligrosos.</p>
 
-                        <p class="text-muted text-justify">El GNV es una fuente de energía más limpia que la gasolina o el diésel. Emite menos dióxido de carbono (CO2), óxidos de nitrógeno (NOx) y otras sustancias contaminantes, lo que puede contribuir a reducir tu huella de carbono y a mejorar la calidad del aire.</p>
+                        <p class="text-muted ">El GNV es una fuente de energía más limpia que la gasolina o el diésel. Emite menos dióxido de carbono (CO2), óxidos de nitrógeno (NOx) y otras sustancias contaminantes, lo que puede contribuir a reducir tu huella de carbono y a mejorar la calidad del aire.</p>
 
                     </div>
-                    <div class="col-md-6 banner-text">
+                    <div class="col-md-6 banner-text-2">
                     <a><img class="img-fluid-port" src="assets/img/gnv/conversiongnv.png"/></a>
                     </div>
                     

@@ -105,24 +105,24 @@
         </section>
         <section class="page-section bg-light" id="ventajasglp">
             <div class="container">
-                <div class="text-center">
+                <div class="text-left titulo-conv">
                     <h2 class="section-heading text-uppercase">Ventajas</h2>  
                 </div>
                 <br>
-                <div class="row text-center">
+                <div class="row text-left">
                     <div class="col-md-6 banner-text">  
-                        <p class="text-muted text-justify">El GLP suele tener un rendimiento energético muy alto. Esto significa que, en general, se obtiene más energía por unidad de volumen comparado con otros combustibles.</p>
+                        <p class="text-muted">El GLP suele tener un rendimiento energético muy alto. Esto significa que, en general, se obtiene más energía por unidad de volumen comparado con otros combustibles.</p>
                             
-                        <p class="text-muted text-justify">El GLP suele ser más barato que la gasolina o el diésel, lo que puede traducirse en un ahorro significativo en tus gastos de combustible a largo plazo.</p>
+                        <p class="text-muted">El GLP suele ser más barato que la gasolina o el diésel, lo que puede traducirse en un ahorro significativo en tus gastos de combustible a largo plazo.</p>
                         
-                        <p class="text-muted text-justify">El GLP es un combustible más limpio y menos corrosivo, lo que puede reducir el desgaste del motor y alargar su vida útil.</p>
+                        <p class="text-muted">El GLP es un combustible más limpio y menos corrosivo, lo que puede reducir el desgaste del motor y alargar su vida útil.</p>
 
-                        <p class="text-muted text-justify">Aunque la conversión a GLP requiere una inversión inicial, el mantenimiento del sistema de GLP suele ser más económico comparado con los sistemas de gasolina o diésel, y los vehículos que utilizan GLP a menudo tienen menos problemas mecánicos.</p>
+                        <p class="text-muted">Aunque la conversión a GLP requiere una inversión inicial, el mantenimiento del sistema de GLP suele ser más económico comparado con los sistemas de gasolina o diésel, y los vehículos que utilizan GLP a menudo tienen menos problemas mecánicos.</p>
 
-                        <p class="text-muted text-justify">El GLP emite menos CO₂ y otros contaminantes nocivos, como óxidos de nitrógeno y partículas, en comparación con la gasolina y el diésel. Esto ayuda a reducir tu huella de carbono y contribuye a un aire más limpio.</p>
+                        <p class="text-muted">El GLP emite menos CO₂ y otros contaminantes nocivos, como óxidos de nitrógeno y partículas, en comparación con la gasolina y el diésel. Esto ayuda a reducir tu huella de carbono y contribuye a un aire más limpio.</p>
 
                     </div>
-                    <div class="col-md-6 banner-text">
+                    <div class="col-md-6 banner-text-2">
                     <a><img class="img-fluid-port" src="assets/img/autogas/conversionglp.JPG"/></a>
                     </div>
                     
