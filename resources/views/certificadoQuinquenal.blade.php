@@ -82,22 +82,35 @@
                 </div>
         </header>
         <section class="page-section" id="nosotros">
-            <div class="container">
-                <div class="row text-center ">
-                    <div class="col-md-6">
-                        <a><img class="visionmision" src="assets/img/R.png"/></a>
-                            <h4 class="my-4">¿Quinquenal?</h4>
-                            <p class="text-muted text-justify">Somos un taller automotriz especializado en la conversión de vehículos a Gas Natural Vehicular (GNV) y Gas Licuado de Petróleo (GLP), ofreciendo servicios de alta calidad y confianza</p>
-                    </div>
-    
-                    <div class="col-md-6">
-                    <a><img class="visionmision" src="assets/img/misionlogo.png"/></a>
-                        
-                        <h4 class="my-4">Ventajas de la conversión a GLP</h4>
-                        <p class="text-muted text-justify">Proveer servicios de mantenimiento y reparación automotriz de alta calidad, garantizando la seguridad y satisfacción de nuestros clientes. Nos comprometemos a utilizar tecnología avanzada y personal capacitado para ofrecer soluciones eficientes y confiables, manteniendo siempre una relación de confianza y transparencia con nuestros clientes.</p>
+        <div class="conteiner">
+                <div class="row"> 
+                    <div class="text-left text-certifi">
+                        <article>
+                            <h2 class="section-heading">¿Qué es el Certificado Quinquenal?</h2>
+                            <p class="section subheading text-muted">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, facilis, repellendus esse doloremque totam error nemo quos cupiditate aut ratione quia magni enim corrupti autem! Vitae optio voluptatibus eaque maxime!</p>
+                        </article>
+                        <br>
+                        <article>
+                            <h2 class="section-heading">¿Como obtengo el certificado Quinquenal?</h2>
+                            <p class="section subheading text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem ipsum saepe reiciendis autem sed. Et, similique. Beatae placeat, ex laudantium quo perferendis nisi aliquam aperiam temporibus, eligendi doloribus odio animi.</p>
+                        </article>
+                        <br>
+                        <article>
+                            <h2 class="section-heading">¿En que me ayuda el certificado Quinquenal?</h2>
+                            <p class="section subheading text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem ipsum saepe reiciendis autem sed. Et, similique. Beatae placeat, ex laudantium quo perferendis nisi aliquam aperiam temporibus, eligendi doloribus odio animi.</p>
+                        </article>
+                        <br>
+                        <p class="text-muted">Para más infotmación contactanos</p>
+                        <a href="https://www.facebook.com/IcaAutoGas/" target="_blank">
+                            <button class="btn btn-banner btn-success mt-3"><i class="fa fa-location-arrow">
+                                
+                            </i>Contactar asesor</button>
+                        </a>
+
                     </div>
                 </div>
-            </div>    
+            </div>
+    
         </section>
         <footer class="footercolegiors" id="contactos">
                 <div class="containercolegio">
@@ -115,24 +128,8 @@
                             <h4>Sede Ica</h4>
                             <ul>
                                 <li><a href="https://www.google.es/maps/place/Autogas+ICA/@-14.0627053,-75.7416114,15z/data=!4m6!3m5!1s0x9110e3c014ffc1f9:0xad38bb2ed64fb7!8m2!3d-14.0627053!4d-75.7416114!16s%2Fg%2F11h07vdy3p?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Av. Fernando León de Vivero N° 403, Ica </a></li>
-                                <!--li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>-->
                             </ul>
                         </div>
-                        <!--div class="footer-colcolegiors">
-                            <h4>Contactenos</h4>
-                            <ul>
-                                <div class="quote">
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>
-                                </div>
-                            </ul>
-                        </div-->
                         <div class="footer-colcolegiors">
                             <h4>Siguenos</h4>
                             <div class="social-links">
@@ -143,6 +140,11 @@
                             </div>
                         </div>
                     </div>
+                    <span class="text-secondary copyright">
+                        <script>
+                            document.write('© ' + new Date().getFullYear() + ' AutoGas Automotriz. Todos los derechos reservados.');
+                        </script>
+                    </span>
                 </div>
             </footer>            
             

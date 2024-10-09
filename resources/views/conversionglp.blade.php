@@ -133,12 +133,12 @@
         <section class="video-section prelative text-center white">
             <div class="section-padding video-overlay">
                 <div class="container">
-                    <h2 class="fw-bold text-light">Miranos en youtube</h2>
+                    <h2 class="fw-bold text-light">Ver video</h2>
                     <i class="fa fa-play" id="video-icon" aria-hidden="true"></i>
                     <div class="video-popup">
                         <div class="video-src">
                             <div class="iframe-src">
-                                <iframe src="https://www.youtube.com/embed/Ku52zNnft8k?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+                                <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1220322845680455%2F&show_text=false&width=267&t=0" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -164,51 +164,45 @@
                                     <img class="d-block w-100" src="assets/img/autogas/img1.png" alt="First slide">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h5>Tanque GLP Toroidal</h5>
-                                        <p>desc</p>
+                                        
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img class="d-block w-100" src="assets/img/autogas/img2.jpg" alt="Second slide">
                                     <div class="carousel-caption d-none d-md-block">
                                             <h5>Conmutador</h5>
-                                            <p>desc</p>
+                                            
                                         </div>
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" src="assets/img/autogas/img3.jpg" alt="Third slide">
                                         <div class="carousel-caption d-none d-md-block">
                                             <h5>Filtro de Gas</h5>
-                                            <p>desc</p>
+                                            
                                         </div>
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" src="assets/img/autogas/img4.jpg" alt="Third slide">
                                         <div class="carousel-caption d-none d-md-block">
                                             <h5>Inyector Fenix</h5>
-                                            <p>desc</p>
+                                            
                                         </div>
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" src="assets/img/autogas/img5.jpg" alt="Third slide">
                                         <div class="carousel-caption d-none d-md-block">
                                             <h5>Inyector Hawk</h5>
-                                            <p>desc</p>
+                                            
                                         </div>
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" src="assets/img/autogas/img6.jpg" alt="Third slide">
                                         <div class="carousel-caption d-none d-md-block">
                                             <h5>Sensor MAP</h5>
-                                            <p>desc</p>
+                                            
                                         </div>
                                     </div>
-                                    <!--div class="carousel-item">
-                                        <img class="d-block w-100 img-prom" src="assets/img/autogas/img8.jpg" alt="Toma de Carga">
-                                        <div class="carousel-caption d-none d-md-block">
-                                            <h5>Toma de Carga</h5>
-                                            <p>desc</p>
-                                        </div>
-                                    </div>-->
+
                                 </div>
                                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -224,11 +218,13 @@
                         <div class="col-md-6">
                             <div class="text-left">
                             <h2 class="section-heading text-uppercase">EQUIPOS</h2>
-                            <h3 class="section-subheading text-muted">Todos los equipos utilizados en la conversión a GLP <br></h3>
-                            <a href="tel:(01) 219 0800">
-                                <button class="btn btn-banner btn-success mt-3"><i class="bi bi-telephone">
+                            <h3 class="section-subheading text-muted">Todos los equipos utilizados en la conversión a GLP <br>
+                            <a href="https://www.facebook.com/IcaAutoGas/" target="_blank"">
+                                <button class="btn btn-banner btn-success mt-3"><i class="fa fa-location-arrow">
                                 </i> Contactar asesor</button>
                             </a>
+                            </h3>
+                                
                                     <!-- <h3 class="section-subheading text-muted">MISION - VISION</h3> -->
                             </div>
                         </div>
@@ -253,24 +249,10 @@
                             <h4>Sede Ica</h4>
                             <ul>
                                 <li><a href="https://www.google.es/maps/place/Autogas+ICA/@-14.0627053,-75.7416114,15z/data=!4m6!3m5!1s0x9110e3c014ffc1f9:0xad38bb2ed64fb7!8m2!3d-14.0627053!4d-75.7416114!16s%2Fg%2F11h07vdy3p?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Av. Fernando León de Vivero N° 403, Ica </a></li>
-                                <!--li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>-->
+
                             </ul>
                         </div>
-                        <!--div class="footer-colcolegiors">
-                            <h4>Contactenos</h4>
-                            <ul>
-                                <div class="quote">
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>
-                                </div>
-                            </ul>
-                        </div-->
+
                         <div class="footer-colcolegiors">
                             <h4>Siguenos</h4>
                             <div class="social-links">
@@ -281,6 +263,11 @@
                             </div>
                         </div>
                     </div>
+                    <span class="text-secondary copyright">
+                        <script>
+                            document.write('© ' + new Date().getFullYear() + ' AutoGas Automotriz. Todos los derechos reservados.');
+                        </script>
+                    </span>
                 </div>
             </footer>            
             

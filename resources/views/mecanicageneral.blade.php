@@ -93,56 +93,36 @@
                 <div class="row text-center">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portafolio-item">
-                            <img class="img-nosotros" src="assets/img/autogas/conversionglp.jpg" alt="mecgene">
+                            <img class="img-nosotros" src="assets/img/seccion2/img2.jpg" alt="mecgene">
                             
                         </div>
                         <div class="portafolio-caption">
                             <h4 class="my-3">Mantenimiento Preventivo</h4>
-                            <p class="text-confi">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam doloremque vero ratione ipsam fugit, soluta modi dolorem, enim hic odio tempore nostrum, cumque aut facere magni. Porro non neque dolor!</p>
+                            <p class="text-confi">Ofrecemos servicios especializados para garantizar que tu vehículo funcione de manera eficiente y segura.Este cuidado periódico no solo extiende la vida útil de tu automóvil, sino que también te ayuda a evitar reparaciones costosas. Mantén tu vehículo en óptimas condiciones con nuestros servicios preventivos de confianza.</p>
                     
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">    
                         <div class="portafolio-item">
-                            <img class="img-nosotros" src="assets/img/autogas/conversionglp.jpg" alt="mecgene">
+                            <img class="img-nosotros" src="assets/img/seccion2/img4.jpg" alt="mecgene">
                             
                         </div>
                         <div class="portafolio-caption">
                             <h4 class="my-3">Reparación de Motores</h4>
-                            <p class="text-confi">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, sint enim. Dolorum assumenda, repellendus et eum dolorem, esse error maxime voluptates sed nobis voluptatem aut, ab dolores quis voluptatibus quae!</p>
+                            <p class="text-confi">Contamos con un equipo de expertos dedicados a diagnosticar y reparar cualquier problema en el corazón de tu vehículo. Confía en nosotros para mantener tu motor en óptimas condiciones, garantizando potencia, eficiencia y durabilidad en cada kilómetro.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portafolio-item">
-                            <img class="img-nosotros" src="assets/img/autogas/conversionglp.jpg" alt="mecgene">
-                            
-                            
+                            <img class="img-nosotros" src="assets/img/seccion2/img6.jpg" alt="mecgene">
+
                         </div>
                         <div class="portafolio-caption">
                             <h4 class="my-3">Diagnóstico de Problemas</h4>
-                            <p class="text-confi">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta aspernatur at omnis soluta veritatis officiis doloribus labore iusto error voluptates harum, amet, iure asperiores cum! Minus quasi eius eveniet repellendus.</p>
+                            <p class="text-confi">Ofrecemos una evaluación precisa y rápida de cualquier falla en tu vehículo. Nuestro objetivo es detectar el origen de cualquier inconveniente y proporcionarte soluciones efectivas, evitando reparaciones innecesarias y garantizando que tu auto vuelva a funcionar correctamente en el menor tiempo posible.</p>
                         </div>
                     </div>
-                    <!--div class="col-lg-6 col-sm-6 mb-4">
-                        <div class="portafolio-item">
-                            <img class="img-nosotros" src="assets/img/autogas/conversionglp.jpg" alt="mecgene">
-                            
-                        </div>
-                        <div class="portafolio-caption">
-                            <h4 class="my-3">Reparación de Transmisiones</h4>
-                            <p class="text-confi2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit unde officia delectus voluptatum necessitatibus, commodi corrupti perspiciatis doloremque ut molestias? Voluptatem, eos temporibus error odit molestiae neque officia pariatur dolorum!</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 mb-4">
-                        <div class="portafolio-item">
-                            <img class="img-nosotros" src="assets/img/autogas/conversionglp.jpg" alt="mecgene">
-                            
-                        </div>
-                        <div class="portafolio-caption">
-                            <h4 class="my-3">Servicio de Frenos</h4>
-                            <p class="text-confi2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dicta, natus ullam minus cumque, aspernatur amet sequi perspiciatis voluptate labore velit at rem quidem ipsam? Corrupti placeat beatae quia dolor!</p>
-                        </div>      
-                    </div>-->
+
                 </div>
                 <br>
                 
@@ -153,15 +133,23 @@
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase ">Artículos Informativos</h2>
                 </div>
-                <div class="row col-6">
-                    <div class="text-left">
+                <br>
+                <div class="row">
+                    <div class="text-left text-certifi">
                         <article>
                             <h3 class="my-3">Guía de Mantenimiento Preventivo</h3>
-                            <p>Consejos sobre cómo mantener tu vehículo en óptimas condiciones.</p>
+                            <br>
+                            <p><li>Consulta el Manual del Propietario: Siempre sigue las recomendaciones específicas del fabricante.</li></p>
+                            <p><li>Mantén un Registro: Lleva un registro de todos los mantenimientos realizados para facilitar futuras revisiones.</li></p>
+                            <p><li>Visita a un Profesional: No dudes en acudir a un mecánico de confianza para inspecciones más complejas.</li></p>
+                            <p>Realizar un mantenimiento preventivo adecuado no solo prolonga la vida útil de tu vehículo, sino que también mejora su rendimiento y seguridad. ¡Cuida tu automóvil y disfruta de cada viaje!</p>
                         </article>
+                        <br>
                         <article>
-                            <h3>Sistemas Mecánicos: Lo que Necesitas Saber</h3>
-                            <p>Información sobre los diferentes sistemas de tu vehículo.</p>
+                            <h3 class="my-3">Sistemas Mecánicos: Lo que Necesitas Saber</h3>
+                            <br>
+                            <p>Los sistemas mecánicos son el corazón de cualquier vehículo, garantizando su funcionamiento eficiente y seguro. Desde el motor hasta la transmisión, cada componente juega un papel crucial en la experiencia de conducción. A continuación, exploramos los principales sistemas mecánicos de un automóvil y su importancia.</p>
+                            <p>Un mantenimiento regular de estos sistemas es esencial para garantizar la seguridad y el rendimiento del vehículo. Ignorar problemas mecánicos puede llevar a costosas reparaciones y comprometer la seguridad del conductor y los pasajeros.</p>
                         </article>
                     </div>
                 </div>
@@ -177,13 +165,13 @@
                         <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
                                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Collapsible Group Item #1
+                                    ¿Qué tipo de vehículos pueden ser convertidos a GLP o GNV?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                La mayoría de los vehículos de gasolina pueden ser convertidos a GLP o GNV. Sin embargo, recomendamos consultar con nuestro equipo para verificar la compatibilidad de tu modelo específico.
                             </div>
                         </div>
                     </div>
@@ -191,13 +179,13 @@
                         <div class="card-header" id="headingTwo">
                             <h5 class="mb-0">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Collapsible Group Item #2
+                                    ¿Hay algún mantenimiento especial necesario después de la conversión?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                Sí, aunque el mantenimiento es similar al de un vehículo convencional, es importante realizar revisiones periódicas del sistema de gas y el motor para asegurar un rendimiento óptimo.
                             </div>
                         </div>
                     </div>
@@ -205,13 +193,13 @@
                         <div class="card-header" id="headingThree">
                             <h5 class="mb-0">
                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Collapsible Group Item #3
+                                    ¿Qué garantía ofrecen en sus vehículos?
                                 </button>
                             </h5>
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                Todos nuestros vehículos nuevos vienen con una garantía limitada que cubre defectos de fabricación. Consulta el manual del propietario o contacta a nuestro servicio al cliente para más detalles sobre las condiciones específicas.
                             </div>
                         </div>
                     </div>
@@ -346,6 +334,11 @@
                             </div>
                         </div>
                     </div>
+                    <span class="text-secondary copyright">
+                        <script>
+                            document.write('© ' + new Date().getFullYear() + ' AutoGas Automotriz. Todos los derechos reservados.');
+                        </script>
+                    </span>
                 </div>
             </footer>            
             

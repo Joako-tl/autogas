@@ -91,30 +91,50 @@
                     <!-- <h3 class="section-subheading text-muted">MISION - VISION</h3> -->
                 </div>
                 <br>
-                <div class="row text-center ">
-                
-                    <div class="col-md-4 ">
-                    <a href="https://drive.google.com/file/d/1pxXok6itFWYd3y88kbIpgIueU7VW6AZ6/view" target="_blank"><img class="img-prom" src="assets/img/portfolio/area1.jpg"/></a>
-                        
-                        <!--h4 class="my-3">AUTOGAS AUTOMOTRIZ</h4>-->
-                        <!--p class="text-muted">Somos un taller automotriz especializado en la conversión de vehículos a Gas Natural Vehicular (GNV) y Gas Licuado de Petróleo (GLP), ofreciendo servicios de alta calidad y confianza</p>-->
-                    </div>
-                   
-
-                    <div class="col-md-4">
-                    <a href="" target="_blank"><img class="img-prom" src="assets/img/portfolio/prt4.jpg"/></a>
-                        
-                        <!--h4 class="my-3">MISIÓN</h4>
-                        <p class="text-muted">Conozca nuestra historia</p>-->
+                <div class="row text-center prod-acc">
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets/img/seccion2/img3.jpg" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Magnatec</h5>
+                                <p class="card-text">Aqui va la descripcion del producto</p>
+                                <p class="card-text text-muted">Precio</p>
+                            </div>
+                            <div class="card-body">
+                                <a href="https://www.facebook.com/IcaAutoGas/" target="_blank" class="card-link">Contactar Asesor</a>  
+                            </div>
+                        </div>
                     </div>
 
-                    <div class="col-md-4">
-                    <a href="" target="_blank"><img class="img-prom" src="assets/img/portfolio/prt5.jpg"/></a>
-                        
-                        <!--h4 class="my-3">VISIÓN</h4>
-                        <p class="text-muted">Lorem ipsum do inventore harum ex magni, dicta impedit.</p>-->
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets/img/seccion2/img4.jpg" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Nombre del Producto</h5>
+                                <p class="card-text">Aqui va la descripcion del producto</p>
+                                <p class="card-text text-muted">Precio</p>
+                            </div>
+                            <div class="card-body">
+                                <a href="https://www.facebook.com/IcaAutoGas/" target="_blank" class="card-link">Contactar Asesor</a>  
+                            </div>
+                        </div>
                     </div>
-            </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets/img/seccion2/img2.jpg" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Nombre del Producto</h5>
+                                <p class="card-text">Aqui va la descripcion del producto</p>
+                                <p class="card-text text-muted">Precio</p>
+                            </div>
+                            <div class="card-body">
+                                <a href="https://www.facebook.com/IcaAutoGas/" target="_blank" class="card-link">Contactar Asesor</a>  
+                            </div>
+                        </div>
+                    </div>
+                    
+ 
+                </div>
         </section>
         <footer class="footercolegiors" id="contactos">
                 <div class="containercolegio">
@@ -132,24 +152,10 @@
                             <h4>Sede Ica</h4>
                             <ul>
                                 <li><a href="https://www.google.es/maps/place/Autogas+ICA/@-14.0627053,-75.7416114,15z/data=!4m6!3m5!1s0x9110e3c014ffc1f9:0xad38bb2ed64fb7!8m2!3d-14.0627053!4d-75.7416114!16s%2Fg%2F11h07vdy3p?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Av. Fernando León de Vivero N° 403, Ica </a></li>
-                                <!--li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>-->
+
                             </ul>
                         </div>
-                        <!--div class="footer-colcolegiors">
-                            <h4>Contactenos</h4>
-                            <ul>
-                                <div class="quote">
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">shipping</a></li>
-                                <li><a href="#">returns</a></li>
-                                <li><a href="#">order status</a></li>
-                                <li><a href="#">payment options</a></li>
-                                </div>
-                            </ul>
-                        </div-->
+
                         <div class="footer-colcolegiors">
                             <h4>Siguenos</h4>
                             <div class="social-links">
@@ -160,6 +166,11 @@
                             </div>
                         </div>
                     </div>
+                    <span class="text-secondary copyright">
+                        <script>
+                            document.write('© ' + new Date().getFullYear() + ' AutoGas Automotriz. Todos los derechos reservados.');
+                        </script>
+                    </span>
                 </div>
             </footer>            
             

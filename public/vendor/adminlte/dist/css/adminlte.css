@@ -2657,40 +2657,40 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
   box-shadow: none;
 }
 
 .btn-success:hover {
   color: #fff;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-success:focus, .btn-success.focus {
   color: #fff;
-  background-color: #218838;
-  border-color: #1e7e34;
-  box-shadow: 0 0 0 0 rgba(72, 180, 97, 0.5);
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .btn-success.disabled, .btn-success:disabled {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active,
 .show > .btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #1e7e34;
-  border-color: #1c7430;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-success:not(:disabled):not(.disabled):active:focus, .btn-success:not(:disabled):not(.disabled).active:focus,
 .show > .btn-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0 rgba(72, 180, 97, 0.5);
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .btn-info {
@@ -2948,35 +2948,35 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-success {
-  color: #28a745;
-  border-color: #28a745;
+  color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-outline-success:focus, .btn-outline-success.focus {
-  box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.5);
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .btn-outline-success.disabled, .btn-outline-success:disabled {
-  color: #28a745;
+  color: #fc4d4d;
   background-color: transparent;
 }
 
 .btn-outline-success:not(:disabled):not(.disabled):active, .btn-outline-success:not(:disabled):not(.disabled).active,
 .show > .btn-outline-success.dropdown-toggle {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .btn-outline-success:not(:disabled):not(.disabled):active:focus, .btn-outline-success:not(:disabled):not(.disabled).active:focus,
 .show > .btn-outline-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.5);
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .btn-outline-info {
@@ -32195,40 +32195,40 @@ html.maximized-card {
 
 .dark-mode .btn-success {
   color: #fff;
-  background-color: #00bc8c;
-  border-color: #00bc8c;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
   box-shadow: none;
 }
 
 .dark-mode .btn-success:hover {
   color: #fff;
-  background-color: #009670;
-  border-color: #008966;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .dark-mode .btn-success:focus, .dark-mode .btn-success.focus {
   color: #fff;
-  background-color: #009670;
-  border-color: #008966;
-  box-shadow: 0 0 0 0 rgba(38, 198, 157, 0.5);
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .dark-mode .btn-success.disabled, .dark-mode .btn-success:disabled {
   color: #fff;
-  background-color: #00bc8c;
-  border-color: #00bc8c;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .dark-mode .btn-success:not(:disabled):not(.disabled):active, .dark-mode .btn-success:not(:disabled):not(.disabled).active,
 .show > .dark-mode .btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #008966;
-  border-color: #007c5d;
+  background-color: #fc4d4d;
+  border-color: #fc4d4d;
 }
 
 .dark-mode .btn-success:not(:disabled):not(.disabled):active:focus, .dark-mode .btn-success:not(:disabled):not(.disabled).active:focus,
 .show > .dark-mode .btn-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0 rgba(38, 198, 157, 0.5);
+  box-shadow: 0 0 0 0 rgba(220, 53, 69, 0.5);
 }
 
 .dark-mode .btn-info {
